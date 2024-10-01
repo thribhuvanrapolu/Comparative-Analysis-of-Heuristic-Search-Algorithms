@@ -1,3 +1,4 @@
+### Programming Assignment - ARTIFICIAL & COMPUTATIONAL INTELLIGENCE 
 1. Run main.py if you want to input start_state and end_state and it will return best_first_search and A*_search Results.
    Output will be saved in output.txt and will not be stored in terminal since output.txt will be easier to view and we can't read more that 100 lines from terminal
 
